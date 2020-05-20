@@ -1,5 +1,10 @@
 Cặc
+r g fcgh   xd
+<<<<<<< HEAD xdf xdf
 
-
-
+ dx xdf xdf
 444
+=======
+lònxd fdx fdx
+
+>>>>>>> 55d0109b98e39b01a776734599dadd247a8b06e5
